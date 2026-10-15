@@ -33,7 +33,7 @@ Backend Software Engineer with 3.5+ years of commercial experience specializing 
 
 ### 💼 Work Experience
 
-#### **[54origins](https://54origins.com)** | Mid-level Backend Developer
+#### **[54origins](https://54origins.com)** | Backend Developer
 *Jun 2025 – Present*
 * Designed and maintained a standardized core Python submodule integrated across 10+ internal and client projects (including an enterprise ecosystem with 15+ microservices), unifying authentication, logging, and API protocols.
 * Optimized high-latency analytical endpoints constrained by inter-service network overhead, reducing response time by **75%** through asynchronous request fan-out, non-blocking I/O, and background processing.
